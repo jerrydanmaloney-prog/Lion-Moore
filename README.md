@@ -11,24 +11,14 @@ Jerrydan - 643077353
  * - Run "npm run dev" in your terminal to start a development server
  * - Open a browser tab at http://localhost:8787/ to see your worker in action
  * - Run "npm run deploy" to publish your worker
- *
- * Learn more at https://developers.cloudflare.com/workers/
- */
-
-export default {
-  async fetch(request, env, ctx) {
-    // You can view your logs in the Observability dashboard
-    console.info({ message: 'Hello World Worker received a request!' }); 
+ *1171497811 */GeraldMoore_191924179740
+{ message: 'Hello World Worker received a request!' }); 
     return new Response('Hello World!');
   } //@php_CORE2.xml#OuterIterator::getInnerIterator ->  //@php_CORE2.xml#OuterIterator::GeraldMoore::money::returned
  //NoRewindIterator::rewind instead of IteratorIterator::rewind
  // ArrayIterator::getArrayCopy	
- 
- 
 <?php //Extension standard
 interface _internal_Traversable{
-}
-
 //@php_CORE4.xml#dir
 abstract class Directory {
 	//public}$path ;
